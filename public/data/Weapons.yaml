@@ -153,7 +153,7 @@ System:
                 - Difficulty -> +1
                 - Damage -> d6
                 - Special -> +Opponent armor bonuses are halved
-              Flangeqd:
+              Flange:
                 - Uses -> 2 Hands
                 - Difficulty -> +2
                 - Damage -> d8
